@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1621668664 source:f:\it206\text_editor\src\paragraph.cpp
+	"Paragraph.h"
+
+1621668695 f:\it206\text_editor\include\paragraph.h
+	<bits/stdc++.h>
+
+1623345854 source:f:\it206\text_editor\main.cpp
+	<bits/stdc++.h>
+	<paragraph.h>
+	<file.h>
+	<Texteditor.h>
+
+1621669267 f:\it206\text_editor\include\file.h
+	<paragraph.h>
+	<bits/stdc++.h>
+
+1621669267 f:\it206\text_editor\include\texteditor.h
+	<bits/stdc++.h>
+	<paragraph.h>
+	<file.h>
+
+1621668809 source:f:\it206\text_editor\src\file.cpp
+	"file.h"
+
+1621669557 source:f:\it206\text_editor\src\texteditor.cpp
+	"Texteditor.h"
+
